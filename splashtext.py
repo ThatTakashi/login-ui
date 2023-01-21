@@ -1,0 +1,1 @@
+splash = ['"The most fun you can have online', '"Also try RuneScape"', '"Quest, then Quest again"', '"Cow go mooo"']
