@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <h3 align="center">What is the this?</h3>
-  <img src="github-assets/login.png" width=200px/>
+  <img src="github-assets/login.png" width=500px/>
   <p align="center">This is a UI design made completely in python using the <a href = "https://docs.python.org/3/library/tkinter.html">Tkinter</a> and <a href = "https://github.com/TomSchimansky/CustomTkinter">CustomTkinter</a> libraries.</p>
 </p>
 <hr>
