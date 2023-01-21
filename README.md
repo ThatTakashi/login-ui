@@ -23,7 +23,9 @@
 <hr>
 <p align="center">
   <h3 align="center">How can I run this?</h3>
-  <p align="center">To run the program, simply download the code in a .zip file then unzip the file and run the main app.py file</p>
+  <p align="center">To run the program, simply download the code in a .zip file then unzip the file and run the main app.py file <br>
+  Please note that you will need a few things installed in order to run the program, those being:<br>
+  CustomTkinter - pip3 install customtkinter</p>
   <h3 align="center">Issues</h3>
   <p align="center">If you try out the program and something does not work, simply open an issue and I will look into fixing it</p>
 </p>
