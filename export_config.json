@@ -1,0 +1,101 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/app.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/icon.ico"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/background.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/icon.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/login.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/logo.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/Documents/GitHub/kivy-practice/splashtext.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/Takashi/AppData/Local/Programs/Python/Python310/Lib/site-packages/customtkinter;customtkinter/;customtkinter"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
